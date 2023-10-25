@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>Hello World!</h1>
+    <ul>
+        <li>{{ $name }}</li>
+        <li>{{ $lastName }}</li>
+        <li>{{ $message }}</li>
+    </ul>
 </body>
 </html>
